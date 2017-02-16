@@ -10,6 +10,7 @@ namespace FarmaSis.ServicioConsola
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("version de desarrollo");
         }
     }
 }
